@@ -1,0 +1,5 @@
+crime data: 
+https://www.kaggle.com/mikejohnsonjr/united-states-crime-rates-by-county?select=crime_data_w_population_and_crime_rate.csv
+
+food Desert data:
+https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
