@@ -56,7 +56,7 @@ Alabama,Pickens,4098
 Alabama,Pike,3893
 Alabama,Randolph,4290
 Alabama,Russell,7648
-Alabama,St. Clair,8678
+Alabama,St. Clair,0
 Alabama,Shelby,18752
 Alabama,Sumter,2470
 Alabama,Talladega,11744
@@ -66,38 +66,38 @@ Alabama,Walker,9230
 Alabama,Washington,2938
 Alabama,Wilcox,2586
 Alabama,Winston,4529
-Alabama,Unknown,*
+Alabama,Unknown,0
 Alabama,TOTAL,640531
-Alaska,Aleutians East,+
-Alaska,Aleutians West,+
+Alaska,Aleutians East,0
+Alaska,Aleutians West,0
 Alaska,Anchorage,35153
-Alaska,Bethel,+
-Alaska,Bristol Bay,+
-Alaska,Denali,+
-Alaska,Dillingham,+
+Alaska,Bethel,0
+Alaska,Bristol Bay,0
+Alaska,Denali,0
+Alaska,Dillingham,0
 Alaska,Fairbanks North Star,10415
-Alaska,Haines,+
-Alaska,Hoonah-Angoon,+
+Alaska,Haines,0
+Alaska,Hoonah-Angoon,0
 Alaska,Juneau,4573
 Alaska,Kenai Peninsula,10476
 Alaska,Ketchikan Gateway,2342
 Alaska,Kodiak Island,1512
-Alaska,Kusilvak,+
-Alaska,Lake and Peninsula,+
+Alaska,Kusilvak,0
+Alaska,Lake and Peninsula,0
 Alaska,Matanuska-Susitna,12833
-Alaska,Nome,+
-Alaska,North Slope,+
-Alaska,Northwest Arctic,+
-Alaska,Petersburg,+
-Alaska,Prince of Wales-Hyder,+
-Alaska,Sitka,+
-Alaska,Skagway,+
+Alaska,Nome,0
+Alaska,North Slope,0
+Alaska,Northwest Arctic,0
+Alaska,Petersburg,0
+Alaska,Prince of Wales-Hyder,0
+Alaska,Sitka,0
+Alaska,Skagway,0
 Alaska,Southeast Fairbanks,1140
 Alaska,Valdez-Cordova,1337
-Alaska,Wrangell,+
+Alaska,Wrangell,0
 Alaska,Yakutat,113
-Alaska,Yukon-Koyukuk,+
-Alaska,Unknown,*
+Alaska,Yukon-Koyukuk,0
+Alaska,Unknown,0
 Alaska,TOTAL,90549
 Arizona,Apache,11111
 Arizona,Cochise,20880
@@ -114,7 +114,7 @@ Arizona,Pinal,42809
 Arizona,Santa Cruz,4365
 Arizona,Yavapai,54187
 Arizona,Yuma,25671
-Arizona,Unknown,*
+Arizona,Unknown,0
 Arizona,TOTAL,753929
 Arkansas,Arkansas,3662
 Arkansas,Ashley,4555
@@ -191,7 +191,7 @@ Arkansas,Washington,24393
 Arkansas,White,13578
 Arkansas,Woodruff,1554
 Arkansas,Yell,3562
-Arkansas,Unknown,*
+Arkansas,Unknown,0
 Arkansas,TOTAL,480223
 California,Alameda,134178
 California,Alpine,220
@@ -251,13 +251,13 @@ California,Tuolumne,14354
 California,Ventura,96619
 California,Yolo,17438
 California,Yuba,11199
-California,Unknown,*
+California,Unknown,0
 California,TOTAL,3473379
 Colorado,Adams,27820
 Colorado,Alamosa,2228
 Colorado,Arapahoe,48564
 Colorado,Archuleta,2904
-Colorado,Baca,+
+Colorado,Baca,0
 Colorado,Bent,1011
 Colorado,Boulder,29768
 Colorado,Broomfield,4662
@@ -284,7 +284,7 @@ Colorado,Hinsdale,206
 Colorado,Huerfano,1866
 Colorado,Jackson,290
 Colorado,Jefferson,46647
-Colorado,Kiowa,+
+Colorado,Kiowa,0
 Colorado,Kit Carson,1395
 Colorado,Lake,892
 Colorado,La Plata,8657
@@ -309,7 +309,7 @@ Colorado,Rio Blanco,906
 Colorado,Rio Grande,2423
 Colorado,Routt,3237
 Colorado,Saguache,1013
-Colorado,San Juan,+
+Colorado,San Juan,0
 Colorado,San Miguel,877
 Colorado,Sedgwick,624
 Colorado,Summit,2864
@@ -317,7 +317,7 @@ Colorado,Teller,3787
 Colorado,Washington,977
 Colorado,Weld,26479
 Colorado,Yuma,1826
-Colorado,Unknown,*
+Colorado,Unknown,0
 Colorado,TOTAL,530148
 Connecticut,Fairfield,115204
 Connecticut,Hartford,111765
@@ -327,15 +327,15 @@ Connecticut,New Haven,111041
 Connecticut,New London,42078
 Connecticut,Tolland,17771
 Connecticut,Windham,16819
-Connecticut,Unknown,*
+Connecticut,Unknown,0
 Connecticut,TOTAL,469847
 Delaware,Kent,30248
 Delaware,New Castle,82464
 Delaware,Sussex,58437
-Delaware,Unknown,*
+Delaware,Unknown,0
 Delaware,TOTAL,171150
 District of Columbia,District Of Columbia,76568
-District of Columbia,Unknown,*
+District of Columbia,Unknown,0
 District of Columbia,TOTAL,76569
 Florida,Alachua,32424
 Florida,Baker,3339
@@ -404,7 +404,7 @@ Florida,Volusia,72887
 Florida,Wakulla,2824
 Florida,Walton,10451
 Florida,Washington,4177
-Florida,Unknown,*
+Florida,Unknown,0
 Florida,TOTAL,2468028
 Georgia,Appling,2561
 Georgia,Atkinson,924
@@ -565,14 +565,14 @@ Georgia,Wilcox,1107
 Georgia,Wilkes,1749
 Georgia,Wilkinson,1495
 Georgia,Worth,2829
-Georgia,Unknown,*
+Georgia,Unknown,0
 Georgia,TOTAL,1051459
 Hawaii,Hawaii,27129
 Hawaii,Honolulu,91749
 Hawaii,Kalawao,0
 Hawaii,Kauai,8688
 Hawaii,Maui,14700
-Hawaii,Unknown,*
+Hawaii,Unknown,0
 Hawaii,TOTAL,142266
 Idaho,Ada,38774
 Idaho,Adams,1017
@@ -585,7 +585,7 @@ Idaho,Boise,1123
 Idaho,Bonner,8145
 Idaho,Bonneville,14135
 Idaho,Boundary,2207
-Idaho,Butte,+
+Idaho,Butte,0
 Idaho,Camas,187
 Idaho,Canyon,17514
 Idaho,Caribou,1282
@@ -618,7 +618,7 @@ Idaho,Teton,1275
 Idaho,Twin Falls,10452
 Idaho,Valley,1884
 Idaho,Washington,2095
-Idaho,Unknown,*
+Idaho,Unknown,0
 Idaho,TOTAL,210393
 Illinois,Adams,12677
 Illinois,Alexander,1451
@@ -722,7 +722,7 @@ Illinois,Will,75918
 Illinois,Williamson,11737
 Illinois,Winnebago,38916
 Illinois,Woodford,5822
-Illinois,Unknown,*
+Illinois,Unknown,0
 Illinois,TOTAL,1632353
 Indiana,Adams,3934
 Indiana,Allen,35123
@@ -816,7 +816,7 @@ Indiana,Wayne,13920
 Indiana,Wells,3445
 Indiana,White,4409
 Indiana,Whitley,3383
-Indiana,Unknown,*
+Indiana,Unknown,0
 Indiana,TOTAL,883826
 Iowa,Adair,1514
 Iowa,Adams,919
@@ -917,7 +917,7 @@ Iowa,Winneshiek,3807
 Iowa,Woodbury,13691
 Iowa,Worth,1522
 Iowa,Wright,2877
-Iowa,Unknown,*
+Iowa,Unknown,0
 Iowa,TOTAL,490174
 Kansas,Allen,2733
 Kansas,Anderson,1710
@@ -931,11 +931,11 @@ Kansas,Chase,570
 Kansas,Chautauqua,923
 Kansas,Cherokee,4059
 Kansas,Cheyenne,703
-Kansas,Clark,+
+Kansas,Clark,0
 Kansas,Clay,1832
 Kansas,Cloud,2135
 Kansas,Coffey,1990
-Kansas,Comanche,+
+Kansas,Comanche,0
 Kansas,Cowley,6834
 Kansas,Crawford,6751
 Kansas,Decatur,761
@@ -954,13 +954,13 @@ Kansas,Gove,660
 Kansas,Graham,695
 Kansas,Grant,1042
 Kansas,Gray,961
-Kansas,Greeley,+
+Kansas,Greeley,0
 Kansas,Greenwood,1632
-Kansas,Hamilton,+
+Kansas,Hamilton,0
 Kansas,Harper,1319
 Kansas,Harvey,6126
 Kansas,Haskell,577
-Kansas,Hodgeman,+
+Kansas,Hodgeman,0
 Kansas,Jackson,2497
 Kansas,Jefferson,3236
 Kansas,Jewell,842
@@ -969,7 +969,7 @@ Kansas,Kearny,604
 Kansas,Kingman,1727
 Kansas,Kiowa,555
 Kansas,Labette,4432
-Kansas,Lane,+
+Kansas,Lane,0
 Kansas,Leavenworth,10739
 Kansas,Lincoln,768
 Kansas,Linn,1740
@@ -1008,23 +1008,23 @@ Kansas,Scott,981
 Kansas,Sedgwick,65943
 Kansas,Seward,2277
 Kansas,Shawnee,32394
-Kansas,Sheridan,+
+Kansas,Sheridan,0
 Kansas,Sherman,1264
 Kansas,Smith,1055
 Kansas,Stafford,925
-Kansas,Stanton,+
+Kansas,Stanton,0
 Kansas,Stevens,816
 Kansas,Sumner,4271
 Kansas,Thomas,1366
-Kansas,Trego,+
+Kansas,Trego,0
 Kansas,Wabaunsee,1355
-Kansas,Wallace,+
+Kansas,Wallace,0
 Kansas,Washington,1421
-Kansas,Wichita,+
+Kansas,Wichita,0
 Kansas,Wilson,2156
 Kansas,Woodson,709
 Kansas,Wyandotte,15028
-Kansas,Unknown,*
+Kansas,Unknown,0
 Kansas,TOTAL,429826
 Kentucky,Adair,3311
 Kentucky,Allen,3370
@@ -1146,7 +1146,7 @@ Kentucky,Webster,2078
 Kentucky,Whitley,6760
 Kentucky,Wolfe,1434
 Kentucky,Woodford,3374
-Kentucky,Unknown,*
+Kentucky,Unknown,0
 Kentucky,TOTAL,637614
 Louisiana,Acadia,9410
 Louisiana,Allen,3897
@@ -1212,7 +1212,7 @@ Louisiana,West Baton Rouge,1960
 Louisiana,West Carroll,1933
 Louisiana,West Feliciana,1271
 Louisiana,Winn,2470
-Louisiana,Unknown,*
+Louisiana,Unknown,0
 Louisiana,TOTAL,551527
 Maine,Androscoggin,15561
 Maine,Aroostook,16352
@@ -1230,7 +1230,7 @@ Maine,Somerset,10027
 Maine,Waldo,7594
 Maine,Washington,8031
 Maine,York,34464
-Maine,Unknown,*
+Maine,Unknown,0
 Maine,TOTAL,231144
 Maryland,Allegany,15808
 Maryland,Anne Arundel,80889
@@ -1256,7 +1256,7 @@ Maryland,Washington,26600
 Maryland,Wicomico,17645
 Maryland,Worcester,13810
 Maryland,Baltimore City,81782
-Maryland,Unknown,*
+Maryland,Unknown,0
 Maryland,TOTAL,872710
 Massachusetts,Barnstable,62875
 Massachusetts,Berkshire,31219
@@ -1272,7 +1272,7 @@ Massachusetts,Norfolk,100660
 Massachusetts,Plymouth,87182
 Massachusetts,Suffolk,77356
 Massachusetts,Worcester,99162
-Massachusetts,Unknown,*
+Massachusetts,Unknown,0
 Massachusetts,TOTAL,984994
 Michigan,Alcona,3054
 Michigan,Alger,1826
@@ -1357,7 +1357,7 @@ Michigan,Van Buren,10078
 Michigan,Washtenaw,39032
 Michigan,Wayne,199248
 Michigan,Wexford,5531
-Michigan,Unknown,*
+Michigan,Unknown,0
 Michigan,TOTAL,1260713
 Minnesota,Aitkin,1767
 Minnesota,Anoka,20258
@@ -1446,7 +1446,7 @@ Minnesota,Wilkin,674
 Minnesota,Winona,4825
 Minnesota,Wright,6874
 Minnesota,Yellow Medicine,1262
-Minnesota,Unknown,*
+Minnesota,Unknown,0
 Minnesota,TOTAL,412908
 Mississippi,Adams,6040
 Mississippi,Alcorn,8600
@@ -1530,7 +1530,7 @@ Mississippi,Wilkinson,1652
 Mississippi,Winston,4051
 Mississippi,Yalobusha,3306
 Mississippi,Yazoo,4155
-Mississippi,Unknown,*
+Mississippi,Unknown,0
 Mississippi,TOTAL,481209
 Missouri,Adair,4101
 Missouri,Andrew,2966
@@ -1647,7 +1647,7 @@ Missouri,Webster,3831
 Missouri,Worth,477
 Missouri,Wright,2909
 Missouri,St. Louis City,30174
-Missouri,Unknown,*
+Missouri,Unknown,0
 Missouri,TOTAL,804778
 Montana,Beaverhead,1841
 Montana,Big Horn,1607
@@ -1703,85 +1703,85 @@ Montana,Toole,819
 Montana,Treasure,173
 Montana,Valley,1741
 Montana,Wheatland,470
-Montana,Wibaux,+
+Montana,Wibaux,0
 Montana,Yellowstone,22344
-Montana,Unknown,*
+Montana,Unknown,0
 Montana,TOTAL,170955
 Nebraska,Adams,6380
-Nebraska,Antelope,+
-Nebraska,Arthur,+
-Nebraska,Banner,+
-Nebraska,Blaine,+
+Nebraska,Antelope,0
+Nebraska,Arthur,0
+Nebraska,Banner,0
+Nebraska,Blaine,0
 Nebraska,Boone,1161
 Nebraska,Box Butte,2074
-Nebraska,Boyd,+
-Nebraska,Brown,+
+Nebraska,Boyd,0
+Nebraska,Brown,0
 Nebraska,Buffalo,7023
 Nebraska,Burt,1587
 Nebraska,Butler,1715
 Nebraska,Cass,4144
 Nebraska,Cedar,1508
-Nebraska,Chase,+
-Nebraska,Cherry,+
+Nebraska,Chase,0
+Nebraska,Cherry,0
 Nebraska,Cheyenne,1855
-Nebraska,Clay,+
+Nebraska,Clay,0
 Nebraska,Colfax,1378
 Nebraska,Cuming,2008
 Nebraska,Custer,2473
 Nebraska,Dakota,2496
 Nebraska,Dawes,1546
 Nebraska,Dawson,3656
-Nebraska,Deuel,+
+Nebraska,Deuel,0
 Nebraska,Dixon,927
 Nebraska,Dodge,6940
 Nebraska,Douglas,62376
-Nebraska,Dundy,+
-Nebraska,Fillmore,+
-Nebraska,Franklin,+
+Nebraska,Dundy,0
+Nebraska,Fillmore,0
+Nebraska,Franklin,0
 Nebraska,Frontier,553
-Nebraska,Furnas,+
+Nebraska,Furnas,0
 Nebraska,Gage,4826
-Nebraska,Garden,+
-Nebraska,Garfield,+
+Nebraska,Garden,0
+Nebraska,Garfield,0
 Nebraska,Gosper,434
 Nebraska,Grant,179
-Nebraska,Greeley,+
+Nebraska,Greeley,0
 Nebraska,Hall,9379
 Nebraska,Hamilton,1933
-Nebraska,Harlan,+
-Nebraska,Hayes,+
-Nebraska,Hitchcock,+
+Nebraska,Harlan,0
+Nebraska,Hayes,0
+Nebraska,Hitchcock,0
 Nebraska,Holt,2521
-Nebraska,Hooker,+
+Nebraska,Hooker,0
 Nebraska,Howard,1355
 Nebraska,Jefferson,1771
 Nebraska,Johnson,850
 Nebraska,Kearney,1140
 Nebraska,Keith,1961
-Nebraska,Keya Paha,+
+Nebraska,Keya Paha,0
 Nebraska,Kimball,926
 Nebraska,Knox,1973
 Nebraska,Lancaster,41155
 Nebraska,Lincoln,6343
 Nebraska,Logan,144
-Nebraska,Loup,+
+Nebraska,Loup,0
 Nebraska,McPherson,67
 Nebraska,Madison,5870
 Nebraska,Merrick,1693
 Nebraska,Morrill,895
 Nebraska,Nance,679
-Nebraska,Nemaha,+
+Nebraska,Nemaha,0
 Nebraska,Nuckolls,1144
 Nebraska,Otoe,3094
-Nebraska,Pawnee,+
+Nebraska,Pawnee,0
 Nebraska,Perkins,656
 Nebraska,Phelps,2036
-Nebraska,Pierce,+
+Nebraska,Pierce,0
 Nebraska,Platte,5884
-Nebraska,Polk,+
+Nebraska,Polk,0
 Nebraska,Red Willow,2381
 Nebraska,Richardson,2133
-Nebraska,Rock,+
+Nebraska,Rock,0
 Nebraska,Saline,2405
 Nebraska,Sarpy,19251
 Nebraska,Saunders,3545
@@ -1789,25 +1789,25 @@ Nebraska,Scotts Bluff,7171
 Nebraska,Seward,3110
 Nebraska,Sheridan,1240
 Nebraska,Sherman,748
-Nebraska,Sioux,+
+Nebraska,Sioux,0
 Nebraska,Stanton,849
-Nebraska,Thayer,+
-Nebraska,Thomas,+
+Nebraska,Thayer,0
+Nebraska,Thomas,0
 Nebraska,Thurston,968
-Nebraska,Valley,+
+Nebraska,Valley,0
 Nebraska,Washington,3316
 Nebraska,Wayne,1329
 Nebraska,Webster,919
-Nebraska,Wheeler,+
+Nebraska,Wheeler,0
 Nebraska,York,2991
-Nebraska,Unknown,*
+Nebraska,Unknown,0
 Nebraska,TOTAL,286449
 Nevada,Churchill,4839
 Nevada,Clark,199199
 Nevada,Douglas,12448
 Nevada,Elko,5889
 Nevada,Esmeralda,228
-Nevada,Eureka,+
+Nevada,Eureka,0
 Nevada,Humboldt,2463
 Nevada,Lander,838
 Nevada,Lincoln,1025
@@ -1819,7 +1819,7 @@ Nevada,Storey,967
 Nevada,Washoe,57462
 Nevada,White Pine,1721
 Nevada,Carson City,11409
-Nevada,Unknown,*
+Nevada,Unknown,0
 Nevada,TOTAL,319219
 New Hampshire,Belknap,15031
 New Hampshire,Carroll,13363
@@ -1831,7 +1831,7 @@ New Hampshire,Merrimack,29014
 New Hampshire,Rockingham,53778
 New Hampshire,Strafford,21516
 New Hampshire,Sullivan,9872
-New Hampshire,Unknown,*
+New Hampshire,Unknown,0
 New Hampshire,TOTAL,250636
 New Jersey,Atlantic,45005
 New Jersey,Bergen,134604
@@ -1854,7 +1854,7 @@ New Jersey,Somerset,44319
 New Jersey,Sussex,23660
 New Jersey,Union,61869
 New Jersey,Warren,17803
-New Jersey,Unknown,*
+New Jersey,Unknown,0
 New Jersey,TOTAL,1214375
 New Mexico,Bernalillo,60256
 New Mexico,Catron,1140
@@ -1889,7 +1889,7 @@ New Mexico,Taos,6936
 New Mexico,Torrance,1833
 New Mexico,Union,922
 New Mexico,Valencia,7443
-New Mexico,Unknown,*
+New Mexico,Unknown,0
 New Mexico,TOTAL,262927
 New York,Albany,32980
 New York,Allegany,6339
@@ -1953,7 +1953,7 @@ New York,Wayne,9134
 New York,Westchester,125419
 New York,Wyoming,3857
 New York,Yates,2652
-New York,Unknown,*
+New York,Unknown,0
 New York,TOTAL,2126620
 North Carolina,Alamance,14614
 North Carolina,Alexander,5326
@@ -2055,7 +2055,7 @@ North Carolina,Wilkes,9750
 North Carolina,Wilson,15379
 North Carolina,Yadkin,3823
 North Carolina,Yancey,3914
-North Carolina,Unknown,*
+North Carolina,Unknown,0
 North Carolina,TOTAL,1275239
 North Dakota,Adams,567
 North Dakota,Barnes,2118
@@ -2063,17 +2063,17 @@ North Dakota,Benson,969
 North Dakota,Billings,154
 North Dakota,Bottineau,1563
 North Dakota,Bowman,613
-North Dakota,Burke,+
+North Dakota,Burke,0
 North Dakota,Burleigh,12111
 North Dakota,Cass,17841
 North Dakota,Cavalier,946
 North Dakota,Dickey,942
-North Dakota,Divide,+
+North Dakota,Divide,0
 North Dakota,Dunn,570
 North Dakota,Eddy,512
 North Dakota,Emmons,688
 North Dakota,Foster,605
-North Dakota,Golden Valley,+
+North Dakota,Golden Valley,0
 North Dakota,Grand Forks,8143
 North Dakota,Grant,529
 North Dakota,Griggs,554
@@ -2094,7 +2094,7 @@ North Dakota,Pembina,1474
 North Dakota,Pierce,711
 North Dakota,Ramsey,2335
 North Dakota,Ransom,1046
-North Dakota,Renville,+
+North Dakota,Renville,0
 North Dakota,Richland,2236
 North Dakota,Rolette,1967
 North Dakota,Sargent,801
@@ -2110,7 +2110,7 @@ North Dakota,Walsh,2141
 North Dakota,Ward,8031
 North Dakota,Wells,1097
 North Dakota,Williams,3221
-North Dakota,Unknown,*
+North Dakota,Unknown,0
 North Dakota,TOTAL,101502
 Ohio,Adams,4693
 Ohio,Allen,15827
@@ -2200,7 +2200,7 @@ Ohio,Wayne,13541
 Ohio,Williams,6028
 Ohio,Wood,14400
 Ohio,Wyandot,3783
-Ohio,Unknown,*
+Ohio,Unknown,0
 Ohio,TOTAL,1372602
 Oklahoma,Adair,4050
 Oklahoma,Alfalfa,1087
@@ -2279,7 +2279,7 @@ Oklahoma,Washington,10581
 Oklahoma,Washita,2051
 Oklahoma,Woods,1573
 Oklahoma,Woodward,3324
-Oklahoma,Unknown,*
+Oklahoma,Unknown,0
 Oklahoma,TOTAL,578280
 Oregon,Baker,4363
 Oregon,Benton,8185
@@ -2317,7 +2317,7 @@ Oregon,Wasco,4786
 Oregon,Washington,34803
 Oregon,Wheeler,404
 Oregon,Yamhill,9960
-Oregon,Unknown,*
+Oregon,Unknown,0
 Oregon,TOTAL,447460
 Pennsylvania,Adams,16306
 Pennsylvania,Allegheny,97522
@@ -2386,14 +2386,14 @@ Pennsylvania,Wayne,10629
 Pennsylvania,Westmoreland,31932
 Pennsylvania,Wyoming,4442
 Pennsylvania,York,56789
-Pennsylvania,Unknown,*
+Pennsylvania,Unknown,0
 Pennsylvania,TOTAL,1552535
 Rhode Island,Bristol,6180
 Rhode Island,Kent,20701
 Rhode Island,Newport,13078
 Rhode Island,Providence,62225
 Rhode Island,Washington,18688
-Rhode Island,Unknown,*
+Rhode Island,Unknown,0
 Rhode Island,TOTAL,120871
 South Carolina,Abbeville,4081
 South Carolina,Aiken,27760
@@ -2441,7 +2441,7 @@ South Carolina,Sumter,16852
 South Carolina,Union,4591
 South Carolina,Williamsburg,5197
 South Carolina,York,32335
-South Carolina,Unknown,*
+South Carolina,Unknown,0
 South Carolina,TOTAL,745487
 South Dakota,Aurora,468
 South Dakota,Beadle,2674
@@ -2450,7 +2450,7 @@ South Dakota,Bon Homme,1275
 South Dakota,Brookings,3428
 South Dakota,Brown,6235
 South Dakota,Brule,780
-South Dakota,Buffalo,+
+South Dakota,Buffalo,0
 South Dakota,Butte,1596
 South Dakota,Campbell,286
 South Dakota,Charles Mix,1604
@@ -2476,7 +2476,7 @@ South Dakota,Hanson,1079
 South Dakota,Harding,185
 South Dakota,Hughes,2961
 South Dakota,Hutchinson,1351
-South Dakota,Hyde,+
+South Dakota,Hyde,0
 South Dakota,Jackson,419
 South Dakota,Jerauld,543
 South Dakota,Jones,189
@@ -2508,8 +2508,8 @@ South Dakota,Turner,1249
 South Dakota,Union,2335
 South Dakota,Walworth,1363
 South Dakota,Yankton,3737
-South Dakota,Ziebach,+
-South Dakota,Unknown,*
+South Dakota,Ziebach,0
+South Dakota,Unknown,0
 South Dakota,TOTAL,130682
 Tennessee,Anderson,10604
 Tennessee,Bedford,5818
@@ -2606,7 +2606,7 @@ Tennessee,Weakley,5512
 Tennessee,White,4901
 Tennessee,Williamson,20015
 Tennessee,Wilson,15038
-Tennessee,Unknown,*
+Tennessee,Unknown,0
 Tennessee,TOTAL,820040
 Texas,Anderson,7209
 Texas,Andrews,1571
@@ -2738,11 +2738,11 @@ Texas,Jones,2557
 Texas,Karnes,2044
 Texas,Kaufman,12752
 Texas,Kendall,7021
-Texas,Kenedy,+
+Texas,Kenedy,0
 Texas,Kent,156
 Texas,Kerr,12686
 Texas,Kimble,1022
-Texas,King,+
+Texas,King,0
 Texas,Kinney,654
 Texas,Kleberg,2617
 Texas,Knox,676
@@ -2758,7 +2758,7 @@ Texas,Limestone,3550
 Texas,Lipscomb,509
 Texas,Live Oak,1348
 Texas,Llano,5086
-Texas,Loving,+
+Texas,Loving,0
 Texas,Lubbock,28727
 Texas,Lynn,815
 Texas,McCulloch,1664
@@ -2862,7 +2862,7 @@ Texas,Yoakum,945
 Texas,Young,3783
 Texas,Zapata,1545
 Texas,Zavala,1233
-Texas,Unknown,*
+Texas,Unknown,0
 Texas,TOTAL,2522372
 Utah,Beaver,1066
 Utah,Box Elder,4917
@@ -2893,7 +2893,7 @@ Utah,Wasatch,2295
 Utah,Washington,25508
 Utah,Wayne,577
 Utah,Weber,21863
-Utah,Unknown,*
+Utah,Unknown,0
 Utah,TOTAL,240558
 Vermont,Addison,6773
 Vermont,Bennington,8529
@@ -2909,7 +2909,7 @@ Vermont,Rutland,14579
 Vermont,Washington,12229
 Vermont,Windham,9973
 Vermont,Windsor,13437
-Vermont,Unknown,*
+Vermont,Unknown,0
 Vermont,TOTAL,126487
 Virginia,Accomack,7236
 Virginia,Albemarle,17537
@@ -3044,7 +3044,7 @@ Virginia,Virginia Beach City,56458
 Virginia,Waynesboro City,4002
 Virginia,Williamsburg City,2135
 Virginia,Winchester City,4522
-Virginia,Unknown,*
+Virginia,Unknown,0
 Virginia,TOTAL,1149629
 Washington,Adams,2109
 Washington,Asotin,5100
@@ -3085,7 +3085,7 @@ Washington,Walla Walla,11149
 Washington,Whatcom,27836
 Washington,Whitman,5468
 Washington,Yakima,34222
-Washington,Unknown,*
+Washington,Unknown,0
 Washington,TOTAL,884996
 West Virginia,Barbour,2959
 West Virginia,Berkeley,16279
@@ -3142,7 +3142,7 @@ West Virginia,Wetzel,2476
 West Virginia,Wirt,1102
 West Virginia,Wood,16183
 West Virginia,Wyoming,3909
-West Virginia,Unknown,*
+West Virginia,Unknown,0
 West Virginia,TOTAL,304096
 Wisconsin,Adams,4999
 Wisconsin,Ashland,2700
@@ -3216,7 +3216,7 @@ Wisconsin,Waupaca,5790
 Wisconsin,Waushara,3148
 Wisconsin,Winnebago,13772
 Wisconsin,Wood,8309
-Wisconsin,Unknown,*
+Wisconsin,Unknown,0
 Wisconsin,TOTAL,667607
 Wyoming,Albany,4463
 Wyoming,Big Horn,2518
@@ -3231,7 +3231,7 @@ Wyoming,Johnson,2032
 Wyoming,Laramie,17200
 Wyoming,Lincoln,3345
 Wyoming,Natrona,12650
-Wyoming,Niobrara,+
+Wyoming,Niobrara,0
 Wyoming,Park,7050
 Wyoming,Platte,2239
 Wyoming,Sheridan,6491
@@ -3241,11 +3241,11 @@ Wyoming,Teton,3122
 Wyoming,Uinta,2804
 Wyoming,Washakie,1812
 Wyoming,Weston,1447
-Wyoming,Unknown,*
+Wyoming,Unknown,0
 Wyoming,TOTAL,97921
 American Samoa,TOTAL,3842
 Guam,TOTAL,16108
-Northern Mariana Islands,TOTAL,+
+Northern Mariana Islands,TOTAL,0
 Puerto Rico,Adjuntas,970
 Puerto Rico,Aguada,1410
 Puerto Rico,Aguadilla,2799
@@ -3324,13 +3324,13 @@ Puerto Rico,Vieques,511
 Puerto Rico,Villalba,1275
 Puerto Rico,Yabucoa,1812
 Puerto Rico,Yauco,1825
-Puerto Rico,Unknown,*
+Puerto Rico,Unknown,0
 Puerto Rico,TOTAL,171923
 US Virgin Islands,St. Croix Island,9287
 US Virgin Islands,St. John Island,799
 US Virgin Islands,St. Thomas Island,9302
-US Virgin Islands,Unknown,*
+US Virgin Islands,Unknown,0
 US Virgin Islands,TOTAL,19389
-Unknown,TOTAL,*
+Unknown,TOTAL,0
 Foreign and Other Outlying Areas,TOTAL,444341
 National,Total,38667830
