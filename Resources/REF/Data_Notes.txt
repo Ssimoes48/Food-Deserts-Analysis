@@ -1,0 +1,21 @@
+## ditched this approach, too complicated 
+
+Median family income might not be useful because it has been skewed by wealthier families in each county 
+	(very rarely will the entire county be poor). we need something to compare it to. 
+
+For instance:  
+National poverty level income is:  https://aspe.hhs.gov/poverty-guidelines 
+- 21,720 for a family of 2
+- 26,200 for a family of 4
+
+These are so low!  Let's look at minimum wage:  https://www.dol.gov/general/topic/wages/minimumwage
+- 7.25 per hour x 2080 working hours per year = 15,080
+- let's assume a couple each makes minimum wage, so 30,160 per household.   
+- now lets look at some other arbitrary incomes:
+	45,000
+	70,000
+	100,000
+
+
+
+

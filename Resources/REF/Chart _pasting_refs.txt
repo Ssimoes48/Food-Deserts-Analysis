@@ -1,0 +1,54 @@
+## for reference while charting consistency
+
+# plt.title(f"Adult Obesity vs. Poverty Rate")
+# plt.xlabel("\n Population Below Poverty Line (% of County Population)" + "\n" + "\n" + line_eq + "\n" + "r = " + r_display)
+# plt.ylabel("\n Adult Obesity (% of County Population)")
+
+# plt.title(f"Diabetes Prevalence vs. Poverty Rate")
+# plt.xlabel("\n Population Below Poverty Line (% of County Population)" + "\n" + "\n" + line_eq + "\n" + "r = " + r_display)
+# plt.ylabel("\n No. Annual Diabetes Medicare Enrollees in County")
+
+# plt.title(f"Death vs. Poverty Rate")
+# plt.xlabel("\n Population Below Poverty Line (% of County Population)" + "\n" + "\n" + line_eq + "\n" + "r = " + r_display)
+# plt.ylabel("\n No. Deaths In County")
+
+# plt.title(f"Obesity vs. Healthy Food Access")
+# plt.xlabel("\n Healty Food Access Rating" + "\n" "(0 = hardest, 10 = easiest)" + "\n" + "\n" + line_eq + "\n" + "r = " + r_display)
+# plt.ylabel("\n Adult Obesity (% of County Population)")
+
+
+['State',
+ 'County',
+ 'POP2010',
+ 'OHU2010',
+ 'PovertyRate',
+ 'MedianFamilyIncome',
+ 'LAPOP1_10',
+ 'LAPOP05_10',
+ 'LAPOP1_20',
+ 'LALOWI1_10',
+ 'LALOWI05_10',
+ 'LALOWI1_20',
+ 'lapophalf',
+ 'TractKids',
+ 'TractSeniors',
+ 'TractWhite',
+ 'TractBlack',
+ 'TractAsian',
+ 'TractNHOPI',
+ 'TractAIAN',
+ 'TractOMultir',
+ 'TractHispanic',
+ 'TractHUNV',
+ 'TractSNAP',
+ 'Food Environment Index',
+ '# Deaths',
+ 'Years of Potential Life Lost Rate',
+ '% Obese',
+ '% Fair/Poor',
+ '# Diabetics',
+ '# Violent Crimes',
+ '# Unemployed',
+ '% Children in Poverty',
+ 'Latitude',
+ 'Longitude']
