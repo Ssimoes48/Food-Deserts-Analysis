@@ -26,3 +26,4 @@ Resources:
     Health Data: https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/national-data-documentation-2010-2018
     Food Desert Data: https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
     County Coordinates: https://public.opendatasoft.com/explore/dataset/us-county-boundaries/map/?location=5,69.03242,-35.00244&basemap=jawg.streets
+    Medicare Enrollment Data: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/CMSProgramStatistics/Dashboard
