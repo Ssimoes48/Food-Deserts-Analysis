@@ -1,4 +1,4 @@
-# Food Desert Analysis : G-Map Data
+# Food Desert Analysis : Map Data
 
 
 ## Table of contents
