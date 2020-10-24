@@ -21,6 +21,30 @@ Do residents of counties with food deserts have reduced health status, as measur
         Pie plots health factor for counties with and without food desert.
         other plots as needed
 
+Bar Graphs:
+In order to get valuable data for comparisons I had to take all of the significant population 
+based data and normalize it to a percentage. Afterwards, I created a for loop to produce bar graphs based on
+each column on a county level. 
+I then created another for loop to run comparison bar graphs between food desert population and various health based
+parameters accompanied by a quick t-test. Here are the comparisons that probably weren't due to random chance:
+    
+    Low access pop 1 mile urban - 10 miles rural and medicare percent
+    Low access pop 1 mile urban - 10 miles rural and obese percent
+    low access pop 1 mile urban - 10 miles rural and %Fair or Poor health
+
+    low access pop 1/2 mile urban - 10 miles rural and medicare percent
+    Low access pop 1/2 mile urban - 10 miles rural and obese percent
+    Low access pop 1/2 mile urban - 10 miles rural and %Fair or Poor
+
+    Low access pop 1 mile urban - 20 miles rural and medicare percent
+    low access pop 1 mile urban - 20 miles rural and %Fair or Poor health
+
+According to the bar graphs, there seems to be a relationship between obesity and the low access populations between
+half a mile (urban) from supermarket and 10 miles (rural).
+There also seems to be a similar relationship between the fair/poor % and half a mile from supermarkets (urban)
+up to 20 miles from supermarkets (rural).
+While it isn't due to random chance, we're not entirely sure what the relationship is.
+
 Resources:
 
     Health Data: https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/national-data-documentation-2010-2018
