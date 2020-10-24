@@ -28,16 +28,21 @@ each column on a county level.
 I then created another for loop to run comparison bar graphs between food desert population and various health based
 parameters accompanied by a quick t-test. Here are the comparisons that probably weren't due to random chance:
     
+    LAPOP1_10
     Low access pop 1 mile urban - 10 miles rural and medicare percent
     Low access pop 1 mile urban - 10 miles rural and obese percent
     low access pop 1 mile urban - 10 miles rural and %Fair or Poor health
-
+    
+    LAPOP05_10
     low access pop 1/2 mile urban - 10 miles rural and medicare percent
     Low access pop 1/2 mile urban - 10 miles rural and obese percent
     Low access pop 1/2 mile urban - 10 miles rural and %Fair or Poor
-
+    
+    LAPOP1_20
     Low access pop 1 mile urban - 20 miles rural and medicare percent
     low access pop 1 mile urban - 20 miles rural and %Fair or Poor health
+    
+    *See comparison folder and bar_graphs folder
 
 According to the bar graphs, there seems to be a relationship between obesity and the low access populations between
 half a mile (urban) from supermarket and 10 miles (rural).
