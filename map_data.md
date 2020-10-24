@@ -14,7 +14,7 @@
 
 ## General info
 
-![US Food Index](Images/food_desert.PNG)
+![US Food Index](Images/other_images/food_desert.PNG)
 
 ## US Maps
 ![US Food Index](Images/us_food_desert_inverse.PNG)
