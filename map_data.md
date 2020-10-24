@@ -99,4 +99,14 @@ The US maps were helpful tools to visualize the entire state to locate areas of 
 
 Google Maps API 
 
+Health Data: 
+https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation/national-data-documentation-2010-2018
+
+Food Desert Data: 
+https://www.ers.usda.gov/data-products/food-access-research-atlas/download-the-data/
+
+County Coordinates:
+https://public.opendatasoft.com/explore/dataset/us-county-boundaries/map/?location=5,69.03242,-35.00244&basemap=jawg.streets
+
+Medicare and Medicaid Services (CMS):
 
