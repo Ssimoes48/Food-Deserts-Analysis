@@ -28,22 +28,29 @@ each column on a county level.
 I then created another for loop to run comparison bar graphs between food desert population and various health based
 parameters accompanied by a quick t-test. Here are the comparisons that probably weren't due to random chance:
     
+    LAPOP1_10
     Low access pop 1 mile urban - 10 miles rural and medicare percent
     Low access pop 1 mile urban - 10 miles rural and obese percent
     low access pop 1 mile urban - 10 miles rural and %Fair or Poor health
-
+    
+    LAPOP05_10
     low access pop 1/2 mile urban - 10 miles rural and medicare percent
     Low access pop 1/2 mile urban - 10 miles rural and obese percent
     Low access pop 1/2 mile urban - 10 miles rural and %Fair or Poor
-
+    
+    LAPOP1_20
     Low access pop 1 mile urban - 20 miles rural and medicare percent
     low access pop 1 mile urban - 20 miles rural and %Fair or Poor health
+    
+    *See comparison folder and bar_graphs folder
 
 According to the bar graphs, there seems to be a relationship between obesity and the low access populations between
 half a mile (urban) from supermarket and 10 miles (rural).
 There also seems to be a similar relationship between the fair/poor % and half a mile from supermarkets (urban)
 up to 20 miles from supermarkets (rural).
-While it isn't due to random chance, we're not entirely sure what the relationship is.
+While it isn't due to random chance, I'm not entirely sure what the relationship is. However, there did seem to be a relationship
+between the number of flagged flag food deserts (mainly in Big Horn County) and the percent of obese/diabetic citizens. Unfortunately, running a t-test
+on that would be difficult due to the difference between the types of data displayed (difference between # of food deserts and percent obese/diabetic.
 
 Resources:
 
