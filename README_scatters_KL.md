@@ -5,15 +5,8 @@ Project Name:  Food Deserts and Health in America
 * [Scatter Plot and Linear Regression Analysis](#scatter_plots)
 * [Initial Evaluation](#initial_eval)
 * [Revised Approach](#revised_approach)
-* [Incidence of Obesity:](#obesity)
-* [Incidence of Diabetes:](#diabetes)
-* [Incidence of Death:](#death)
-* [Unemployment:](#unemp)
 * [Interim Results Evaluation](interim_eval)
 * [Alternate Analysis](alt_anal)
-* [Obesity as a Function of FEI](obs_FEI)
-* [Diabetes as a Function of FEI](diab_FEI)
-* [Food Stamp Use as a Function of FEI](foodstamp_FEI)
 * [Final Results](final_results)
 * [Limitations](limitations)
 * [Resources](resoures)
@@ -97,27 +90,27 @@ The results of these analyses are presented below:
 
 # Incidence of Obesity: 
 
-	![Obesity v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/obPCT_povPCT_FD_US.png)
+![Obesity v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/obPCT_povPCT_FD_US.png)
 
-	![Obesity v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/obPCT_povPCT_Non_FD_US.png)
+![Obesity v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/obPCT_povPCT_Non_FD_US.png)
 
 # Incidence of Diabetes: 
 
-	![Diabetes v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/diabPCT_povPCT_FD_US.png)
+![Diabetes v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/diabPCT_povPCT_FD_US.png)
 
-	![Diabetes v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/diabPCT_povPCT_Non-FD_US.png)
+![Diabetes v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/diabPCT_povPCT_Non-FD_US.png)
 
 # Incidence of Death: 
 
-	![Death v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/deathPCT_povPCT_FD_US.png)
+![Death v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/deathPCT_povPCT_FD_US.png)
 
-	![Death v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/deathPCT_povPCT_Non_FD_US.png)
+![Death v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/deathPCT_povPCT_Non_FD_US.png)
 
 # Unemployment:
 
-	![Unemployment v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/obPCT_unempPCT_FD_US.png)
+![Unemployment v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/obPCT_unempPCT_FD_US.png)
 
-	![Unemployment v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/obPCT_unempPCT_Non_FD_US.png)
+![Unemployment v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/obPCT_unempPCT_Non_FD_US.png)
 
 
 ## Interim Results Evaluation
@@ -152,18 +145,18 @@ which was was performed using pie charts and is discussed in a separate summary)
 
 # Obesity as a Function of FEI: 
 
-	![Obesity v FEI - US](Scatter_Plots/Fig 01A - Obesity_FEI_US.png)
-	![Obesity v FEI - Montana](Scatter_Plots/Fig 02A - Obesity_FEI_MT.png)
+![Obesity v FEI - US](Scatter_Plots/Fig 01A - Obesity_FEI_US.png)
+![Obesity v FEI - Montana](Scatter_Plots/Fig 02A - Obesity_FEI_MT.png)
 
 # Diabetes as a Function of FEI: 
 
-	![Diabetes v FEI - US](Scatter_Plots/Fig 03A - Diabetes_FEI_US.png)
-	![Diabetes v FEI - Montana](Scatter_Plots/Fig 04A - Diabetes_FEI_MT.png)
+![Diabetes v FEI - US](Scatter_Plots/Fig 03A - Diabetes_FEI_US.png)
+![Diabetes v FEI - Montana](Scatter_Plots/Fig 04A - Diabetes_FEI_MT.png)
 
 # Food Stamp Use as a Function of FEI: 
 
-	![Food Stamps v FEI - US](Scatter_Plots/Other_Figs/food_stamps_FEI_US.png)
-	![Food Stamps v FEI - Montana](Scatter_Plots/Other_Figs/food_stamps_FEI_MT.png)
+![Food Stamps v FEI - US](Scatter_Plots/Other_Figs/food_stamps_FEI_US.png)
+![Food Stamps v FEI - Montana](Scatter_Plots/Other_Figs/food_stamps_FEI_MT.png)
 
 
 ## Final Results
