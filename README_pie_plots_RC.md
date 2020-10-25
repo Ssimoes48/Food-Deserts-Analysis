@@ -3,12 +3,8 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [US Pie Charts](#us_pie_charts)
-* [Montana Pie Charts](#montana_pie_charts)
-* [Obesity](#setup)
-* [Diabetes](#features)
-* [Fair/Poor Health](#features)
-* [Race](#status)
+* [US Pie Charts](#us-pie-charts)
+* [Montana Pie Charts](#montana-pie-charts)
 * [Sources](#sources)
 
 ## General info
@@ -39,6 +35,7 @@ Below are the results of the nationwide pie chart analysis:
 
 Obesity Rates:
 ![US Food Desert Average Obesity Rate](PiePlots/Average Obesity Rate - Food Desert.png)
+
 
 
 
