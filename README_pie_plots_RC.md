@@ -1,4 +1,4 @@
-# Project Name
+# Pie Plots
 > An analysis of food deserts and health effects associated with them using pie and donut charts.
 
 ## Table of contents
