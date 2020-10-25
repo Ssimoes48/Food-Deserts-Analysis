@@ -66,7 +66,7 @@ Diabetes Rates:
 
 % Fair/Poor Health:
 ![Fergus Non Food Desert Fair/Poor Health](PiePlots/Fergus_Non_Food_Desert_Health_Rate.png)
-![Big Horn Food Desert Fair/Poor Health](Big_Horn_Food_Desert_Health_Rate.png)
+![Big Horn Food Desert Fair/Poor Health](PiePlots/Big_Horn_Food_Desert_Health_Rate.png)
 
 Racial Distribution:
 ![Montana Non Food Desert Racial Distribution](PiePlots/Montana_Non_Food_Desert_Racial_Distribution.png)
