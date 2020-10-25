@@ -34,7 +34,7 @@ poorhealth_byenv_df`
 Below are the results of the nationwide pie chart analysis:
 
 Obesity Rates:
-![US Non Food Desert Average Obesity Rate](PiePlots/Average_Obesity Rate_Non_Food_Desert.png)
+![US Non Food Desert Average Obesity Rate](PiePlots/Average_Obesity_Rate_Non_Food_Desert.png)
 ![US Food Desert Average Obesity Rate](PiePlots/Average_Obesity_Rate_Food_Desert.png)
 
 
@@ -66,7 +66,6 @@ Diabetes Rates:
 
 % Fair/Poor Health:
 ![Fergus Non Food Desert Fair/Poor Health](PiePlots/Fergus_Non_Food_Desert_Health_Rate.png)
-
 ![Big Horn Food Desert Fair/Poor Health](Big_Horn_Food_Desert_Health_Rate.png)
 
 Racial Distribution:
