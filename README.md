@@ -107,19 +107,19 @@ https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-R
 ## Notebooks and Analysis Discussions
 
 Bar Charts -
-https://github.com/Ssimoes48/project_1_superstars/blob/main/BarGraphForloop.ipynb
-	README_bar_graphs_TB.md
+* https://github.com/Ssimoes48/project_1_superstars/blob/main/BarGraphForloop.ipynb
+* README_bar_graphs_TB.md
 
 Scatter Plots - 
-https://github.com/Ssimoes48/project_1_superstars/blob/main/scatter_plots.ipynb
-	README_scatters_KL.md
+* https://github.com/Ssimoes48/project_1_superstars/blob/main/scatter_plots.ipynb
+* README_scatters_KL.md
 
 Pie Plots - 
-https://github.com/Ssimoes48/project_1_superstars/blob/main/Pie_Plots_Final.ipynb
-	README_pie_plots_RC.md
+* https://github.com/Ssimoes48/project_1_superstars/blob/main/Pie_Plots_Final.ipynb
+* README_pie_plots_RC.md
 
 Map Data - 
-https://github.com/Ssimoes48/project_1_superstars/blob/main/map_data.ipynb
-	README_map_data_SS.md
+* https://github.com/Ssimoes48/project_1_superstars/blob/main/map_data.ipynb
+* README_map_data_SS.md
 
  
