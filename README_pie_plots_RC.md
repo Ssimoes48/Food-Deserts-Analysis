@@ -3,7 +3,7 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [US Pie Charts](#screenshots)
+* [US Pie Charts](#US_Pie_Charts)
 * [Montana Pie Charts](#technologies)
 * [Obesity](#setup)
 * [Diabetes](#features)
@@ -34,6 +34,27 @@ poor_health_average = combined_df.groupby("Environment Category")["% Fair/Poor"]
 poorhealth_byenv_df = pd.DataFrame(
     {"Fair/Poor Health Rate Average": poor_health_average})
 poorhealth_byenv_df`
+
+Below are the results of the nationwide pie chart analysis:
+
+Obesity Rates:
+![US Food Desert Average Obesity Rate](PiePlots/Average Obesity Rate - Food Desert.png)
+
+
+
+Diabetes Rate:
+The variable provided in the County Health Rankings reported the number of diabetics enrolled in Medicaid. For calculation purposes, we merged the Medicaid enrollment data in order to find the percentage of diabetics enrolled in Medicaid.
+
+% Fair/Poor Health:
+Age adjusted percentage of adults reporting fair or poor health
+
+## Montana Pie Charts: Food Desert (Big Horn) vs. Non Food Desert (Fergus)
+
+Obesity Rates:
+
+Diabetes Rates:
+
+% Fair/Poor Health:
 
 ## Sources
 <sup>1</sup> USDA [https://www.usda.gov/media/blog/2011/05/03/interactive-web-tool-maps-food-deserts-provides-key-data]
