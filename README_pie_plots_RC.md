@@ -3,13 +3,13 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [US Pie Charts](#US_Pie_Charts)
-* [Montana Pie Charts](#technologies)
+* [US Pie Charts](#us_pie_charts)
+* [Montana Pie Charts](#montana_pie_charts)
 * [Obesity](#setup)
 * [Diabetes](#features)
 * [Fair/Poor Health](#features)
 * [Race](#status)
-* [Sources]
+* [Sources](#sources)
 
 ## General info
 To begin our analysis, we gathered data split up by census tract. We found information on factors such as diabetes, medicare enrollment, obesity, race, and self-reported fair/poor health, all distinguished by census data. We then merged the datasets and began studying the data. For the pie/donut chart visualization, I used Python, Pandas, and Matplotlib to split, analyze, and visualize the data.
@@ -48,7 +48,8 @@ The variable provided in the County Health Rankings reported the number of diabe
 % Fair/Poor Health:
 Age adjusted percentage of adults reporting fair or poor health
 
-## Montana Pie Charts: Food Desert (Big Horn) vs. Non Food Desert (Fergus)
+## Montana Pie Charts
+Food Desert (Big Horn) vs. Non Food Desert (Fergus)
 
 Obesity Rates:
 
@@ -57,4 +58,4 @@ Diabetes Rates:
 % Fair/Poor Health:
 
 ## Sources
-<sup>1</sup> USDA [https://www.usda.gov/media/blog/2011/05/03/interactive-web-tool-maps-food-deserts-provides-key-data]
+<sup>1</sup> USDA, https://www.usda.gov/media/blog/2011/05/03/interactive-web-tool-maps-food-deserts-provides-key-data
