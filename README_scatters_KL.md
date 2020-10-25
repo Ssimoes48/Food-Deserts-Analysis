@@ -1,4 +1,4 @@
-Project Name:  Food Deserts and Health in America
+# Project Name:  Food Deserts and Health in America
 
 ## Table of contents
 * [Background](#background)
@@ -38,11 +38,11 @@ based on all rows in common between the two desired columns/fields.
 ## Initial Evaluation 
 
 - % Adult Obesity as a function of % Poverty Rate (% of county population below the poverty line) 
-- # Diabetic Medicare Enrollees Per County as a function of % Poverty Rate 
-- # Deaths Per County as a function of % Poverty Rate (% of county pop below the poverty line) 
+- No. Diabetic Medicare Enrollees Per County as a function of % Poverty Rate 
+- No. Deaths Per County as a function of % Poverty Rate (% of county pop below the poverty line) 
 - % Adult Obesity as a function of Food Environment Index Rating
-- # Diabetic Medicare Enrollees Per County as a function of Food Environment Index Rating
-- # Deaths Per County as a function of Food Environment Index Rating
+- No. Diabetic Medicare Enrollees Per County as a function of Food Environment Index Rating
+- No. Deaths Per County as a function of Food Environment Index Rating
 
 However, in performing these analyses, I noticed that using total number counts per county (i.e. for diabetes and deaths)
 was not appropriate: a more populous county may have many more deaths than a less densely populated county; but while the 
@@ -88,25 +88,25 @@ the following relationship:
 
 The results of these analyses are presented below:  
 
-# Incidence of Obesity: 
+### Incidence of Obesity: 
 
 ![Obesity v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/obPCT_povPCT_FD_US.png)
 
 ![Obesity v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/obPCT_povPCT_Non_FD_US.png)
 
-# Incidence of Diabetes: 
+### Incidence of Diabetes: 
 
 ![Diabetes v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/diabPCT_povPCT_FD_US.png)
 
 ![Diabetes v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/diabPCT_povPCT_Non-FD_US.png)
 
-# Incidence of Death: 
+### Incidence of Death: 
 
 ![Death v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/deathPCT_povPCT_FD_US.png)
 
 ![Death v Poverty in Non-Food Desert - US](Scatter_Plots/Other_Figs/deathPCT_povPCT_Non_FD_US.png)
 
-# Unemployment:
+### Unemployment:
 
 ![Unemployment v Poverty in Food Desert - US](Scatter_Plots/Other_Figs/obPCT_unempPCT_FD_US.png)
 
@@ -143,17 +143,17 @@ As a supplemental analysis, I also investigated the use of food stamps as a soci
 living in a food desert. Charts of these analysis are provided below (excluding the evaluation of racial distribution 
 which was was performed using pie charts and is discussed in a separate summary). 
 
-# Obesity as a Function of FEI: 
+### Obesity as a Function of FEI: 
 
 ![Obesity v FEI - US](Scatter_Plots/Fig 01A - Obesity_FEI_US.png)
 ![Obesity v FEI - Montana](Scatter_Plots/Fig 02A - Obesity_FEI_MT.png)
 
-# Diabetes as a Function of FEI: 
+### Diabetes as a Function of FEI: 
 
 ![Diabetes v FEI - US](Scatter_Plots/Fig 03A - Diabetes_FEI_US.png)
 ![Diabetes v FEI - Montana](Scatter_Plots/Fig 04A - Diabetes_FEI_MT.png)
 
-# Food Stamp Use as a Function of FEI: 
+### Food Stamp Use as a Function of FEI: 
 
 ![Food Stamps v FEI - US](Scatter_Plots/Other_Figs/food_stamps_FEI_US.png)
 ![Food Stamps v FEI - Montana](Scatter_Plots/Other_Figs/food_stamps_FEI_MT.png)
