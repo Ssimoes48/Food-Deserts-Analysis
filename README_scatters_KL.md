@@ -45,11 +45,10 @@ based on all rows in common between the two desired columns/fields.
 - No. Deaths Per County as a function of Food Environment Index Rating
 
 However, in performing these analyses, I noticed that using total number counts per county (i.e. for diabetes and deaths)
-was not appropriate: a more populous county may have many more deaths than a less densely populated county; but while the 
-total death count might be lower in the less densely populated county, the proportion of deaths could actually be higher 
-in relation to the total population.  Therefore, percents were calculated to normalize the count data to the population.  
-I calculcated percentages and added them as columns to the dataframe, as follows (not all were used, but could be used 
-in future analysis):
+was not appropriate: a more populous county may have many more deaths than a less densely populated county; but in relation 
+to the total population, the proportion of deaths could actually be higher in a less populous county.  Therefore, percents 
+were calculated to normalize the count data to the population. I calculcated percentages and added them as columns to the 
+dataframe, as follows (not all were used, but could be used in future analysis):
 
 	data_df["% Diabetics"] = pct_diab
 	data_df["% Deaths"] = pct_dead
@@ -81,7 +80,7 @@ that would be considered food deserts, or non-food deserts using the following l
 - Separate dataframes were created to evaluate food deserts (data for counties with bottom 10% of FEI ratings) and 
 	non-food deserts (data for counties with top 90% of FEI ratings)
 
-I then repeated each of the analyses combinations above for each group (food desert and non-food desert), and also added
+I then repeated each of the analyses combinations above for the two groups (food desert and non-food desert), and added
 the following relationship:
 
 - % Adult Obesity as a function of Unemployment (% of County Population) 
@@ -135,7 +134,7 @@ deserts. Therefore, I utilized the original dataframe with all data (both food a
 evaluating the following possible relationships in the US overall, and in Montana: 
 
 - % Incidence of Adult Obesity as a function of Food Environment Index in the US
-- % Incidence Adult Obesity as a function of Food Environment Index in Montana
+- % Incidence of Adult Obesity as a function of Food Environment Index in Montana
 - % Incidence of Diabetes as a function of Food Environment Index in the US
 - % Incidence of Diabetes as a function of Food Environment Index in Montana
 
@@ -145,13 +144,13 @@ which was was performed using pie charts and is discussed in a separate summary)
 
 ### Obesity as a Function of FEI: 
 
-![Obesity v FEI - US](Scatter_Plots/Fig 01A - Obesity_FEI_US.png)
-![Obesity v FEI - Montana](Scatter_Plots/Fig 02A - Obesity_FEI_MT.png)
+![Obesity v FEI - US](Scatter_Plots/Fig01A_Obesity_FEI_US.png)
+![Obesity v FEI - Montana](Scatter_Plots/Fig02A_Obesity_FEI_MT.png)
 
 ### Diabetes as a Function of FEI: 
 
-![Diabetes v FEI - US](Scatter_Plots/Fig 03A - Diabetes_FEI_US.png)
-![Diabetes v FEI - Montana](Scatter_Plots/Fig 04A - Diabetes_FEI_MT.png)
+![Diabetes v FEI - US](Scatter_Plots/Fig03A_Diabetes_FEI_US.png)
+![Diabetes v FEI - Montana](Scatter_Plots/Fig04A_Diabetes_FEI_MT.png)
 
 ### Food Stamp Use as a Function of FEI: 
 
@@ -164,20 +163,21 @@ which was was performed using pie charts and is discussed in a separate summary)
 While possible minor trends were identified in the relationships for obesity and diabetes above, again, the correlation 
 coeffiecents (in absolute value) ranged only from 0.17 to 0.27, indicating that there is no statistically significant 
 dependency of incidence of these health factors as a function of the Food Environment Index.  This suggests that regardless 
-of easy or difficult access to healthy food, the number of people with diabetes and number of people with obesity does not 
-change. Therefore, we cannot reject the null hypothesis.
+of easy or difficult access to healthy food, the number of people with diabetes and the number of people with obesity does 
+not change. Therefore, we cannot reject the null hypothesis.
 
 In relation to food stamps, the data showed a slightly higher correlation between the use of food stamps and FEI in the US 
 as a whole (r = 0.40), versus the use of foodstamps and FEI in Montana (r = 0.0).  This suggests a possible difference 
-between these two populations.  However, the correlation coefficient is still too low to prove the alternative hypothesis.   
+between these two populations.  However, the correlation coefficients were still too low to prove the alternative 
+hypothesis.   
 
 ## Limitations
 
-Available health data did not parse characteristics to the census tract level, while food desert data did.  We utilized the 
-Food Environment Index because it was the best indicator for ease of access to healthy food at the county level. While our 
+Available health data did not parse characteristics to the census tract level, while the food desert data did.  We utilized 
+the Food Environment Index because it was the best indicator for access to healthy food at the county level. While our 
 analysis did not show statistically signifiant relationships, there were minor trends suggesting that a more detailed 
-analysis could provide a different result. Heath data (e.g. for obesity and diabetes) specific to a census tract could 
-prove more valueable in determining whether a relationship between health effects and food deserts exists.     
+analysis could provide a different result. Heath data (e.g. for obesity and diabetes) specific to a census tract could prove 
+more valueable in determining whether a relationship between health effects and food deserts exists.     
 
 ## Resources
 
